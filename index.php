@@ -63,6 +63,10 @@
             <span class="subheading">(DARSIC)</span>
           </div>
         </div>
+      </div>pweijfpw
+      <div class="row">
+        <div class="col-md-6"><a href="about.html">About</a></div>
+        <div class="col-md-6"><a href="contact.html">Contact</a></div>
       </div>
     </div>
   </header>
